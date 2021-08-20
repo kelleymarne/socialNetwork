@@ -22,9 +22,13 @@ router
 .put(updateThought)
 .delete(removeThought)
 
+
+router
+.route('/:id/reactions')
+.put(addReaction)
+
 router
 .route('/:id/reactions/:reactionId')
-.put(addReaction)
 .delete(removeReaction)
 
 

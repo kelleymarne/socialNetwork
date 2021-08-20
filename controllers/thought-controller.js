@@ -15,7 +15,7 @@ const thoughtController = {
 
     // Get single thougth by ID
     getThoughtById({ params }, res) {
-        Thought.findOne({_id: params.thoughtId })
+        Thought.findOne({_id: params.id })
         .select('-__v')
         .then(dbThoughtData => {
             if(!dbThoughtData) {
