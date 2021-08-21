@@ -68,6 +68,6 @@ NoSQL is a breath of fresh air after the last leg of the coursework. I have real
 
 <a href="https://github.com/kelleymarne/socialNetwork">GitHub Repo</a>
 
-<a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
+<a href="https://www.youtube.com/watch?v=OzgY5Ym-8HM">YouTube</a>
 
 ---
